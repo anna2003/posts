@@ -1,0 +1,17 @@
+.error {
+    color: tomato;
+    font-size: 10px;
+    font-weight: bold;
+}
+.active {
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+.user-name {
+    color: #1caeae;
+}
+.img-card {
+    object-fit: cover;
+}
